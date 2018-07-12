@@ -1,0 +1,1 @@
+Game Knight is a D&D (or any RPG really) game tracker. With it you can create parties, manage group experience, and members, as well as individual character loot.
