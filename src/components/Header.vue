@@ -52,7 +52,7 @@ nav {
   font-size: 3.1rem;
   color: black;
   text-decoration: none;
-  font-family: Chela One, fantasy;
+  font-family: "Markazi Text", serif;
 }
 a:hover {
   text-decoration: none;

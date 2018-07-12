@@ -3,7 +3,12 @@
     <Header />
     <div class="centerBox">
       <div class="box">
-        Game Night was built using Vue, Bootstrap for Vue, Knex, Express, Postgres, and plain old HTML, CSS, and JavaScript.
+        <section>
+          Game Knight was built using Vue, Bootstrap for Vue, Knex, Express, Postgres, Chart.js, and plain old HTML, CSS, and JavaScript.
+        </section>
+        <section>
+          You can find more of my projects <a class="contactLink" href="https://www.linkedin.com/in/trujilloj/" target="_blank">here</a>.
+        </section>
       </div>
     </div>
     <Footer />
@@ -21,3 +26,7 @@ export default {
   }
 }
 </script>
+
+<style>
+
+</style>
