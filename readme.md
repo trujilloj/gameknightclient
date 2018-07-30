@@ -1,5 +1,7 @@
 # Game Knight
 
+## ![](https://i.imgur.com/yw5GacI.png)
+
 ## [Live Site](https://drill-3-3235a.firebaseapp.com/#/)
 
 ### The Problems:
